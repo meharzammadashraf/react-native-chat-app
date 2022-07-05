@@ -1,0 +1,8 @@
+[debug] [2022-06-17T02:16:40.810Z] ----------------------------------------------------------------------
+[debug] [2022-06-17T02:16:40.813Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\MEHAR\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js firestore:delete --all-collections
+[debug] [2022-06-17T02:16:40.814Z] CLI Version:   10.6.0
+[debug] [2022-06-17T02:16:40.815Z] Platform:      win32
+[debug] [2022-06-17T02:16:40.815Z] Node Version:  v16.14.2
+[debug] [2022-06-17T02:16:40.816Z] Time:          Fri Jun 17 2022 07:16:40 GMT+0500 (Pakistan Standard Time)
+[debug] [2022-06-17T02:16:40.816Z] ----------------------------------------------------------------------
+[debug] 

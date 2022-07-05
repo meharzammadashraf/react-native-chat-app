@@ -1,0 +1,46 @@
+{
+  "name": "chat_app",
+  "version": "1.0.0",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.1.1",
+    "@fortawesome/free-regular-svg-icons": "^6.1.1",
+    "@fortawesome/free-solid-svg-icons": "^6.1.1",
+    "@fortawesome/react-fontawesome": "^0.1.18",
+    "@react-navigation/bottom-tabs": "^6.3.1",
+    "@react-navigation/material-top-tabs": "^6.2.1",
+    "@react-navigation/native": "^6.0.10",
+    "@react-navigation/native-stack": "^6.6.2",
+    "@react-navigation/stack": "^6.2.1",
+    "expo": "~45.0.0",
+    "expo-status-bar": "~1.3.0",
+    "expo-updates": "~0.13.2",
+    "firebase": "^9.6.11",
+    "node-modules": "^1.0.1",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-native": "0.68.2",
+    "react-native-agora": "^3.7.0",
+    "react-native-gesture-handler": "~2.2.1",
+    "react-native-pager-view": "^5.4.24",
+    "react-native-paper": "^4.12.1",
+    "react-native-particles": "^0.0.8",
+    "react-native-particles-webgl": "^1.2.1",
+    "react-native-safe-area-context": "^4.3.1",
+    "react-native-tab-view": "^3.1.1",
+    "react-native-web": "0.17.7",
+    "react-particles-webgl": "^1.0.10",
+    "three": "^0.141.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.9"
+  },
+  "private": true
+}
